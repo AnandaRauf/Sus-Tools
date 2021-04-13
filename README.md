@@ -1,9 +1,9 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Suspect Tools
-Version 1.0
+Version : Beta 1.0
 Dev date : 01 April 2021
-Suspect Tools is for analytics disease and scan, analytics criminal on real life.
+Suspect Tools is for analytics disease,criminal activity, and human identation.
 
 Feature : 
 - Brain Analytics.
